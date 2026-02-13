@@ -1,4 +1,4 @@
-package com.fdu.msacs.dfs.dfs_shared;
+package com.infolink.dfs.shared;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

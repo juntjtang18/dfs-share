@@ -1,4 +1,4 @@
-package com.fdu.msacs.dfs.dfs_shared;
+package com.infolink.dfs.shared;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

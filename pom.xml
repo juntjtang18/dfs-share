@@ -8,10 +8,10 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fdu.msacs.dfs</groupId>
-	<artifactId>dfs-shared</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>dfs-shared</name>
+	<groupId>com.infolink.dfs</groupId>
+	<artifactId>shared</artifactId>
+	<version>0.0.1</version>
+	<name>shared</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
